@@ -29,6 +29,6 @@ Optionally also describe how to setup a staging or production environment.
 
 ## Developers
 
-- [Developer 1](mailto:developer1@akarinti.tech)
-- [Developer 2](mailto:developer2@akarinti.tech)
+- Developer 1 - [developer1@akarinti.tech](mailto:developer1@akarinti.tech)
+- Developer 2 - [developer2@akarinti.tech](mailto:developer2@akarinti.tech)
 
