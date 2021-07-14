@@ -45,3 +45,5 @@ README as the name implies is the first document that anyone would be asked to r
 - It should contains technology used
 - It should contains setup instruction, most importantly development setup for other developer
 - Optionally contains screenshots or architectural diagram
+
+Please see the [template here](README.template.md).
