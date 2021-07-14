@@ -5,6 +5,7 @@ In an effort to make onboarding journey for a new developer less painful and for
 ## Table of Contents
 * [Repository Name](#repository-name)
 * [Repository Description](#repository-description)
+* [README](#README)
 
 ## Repository Name
 
@@ -31,3 +32,16 @@ Repository name is limited in character (40 characters max in Github), so descri
 - It should at least explain the repository name. For example, the description for `bcaf_vmall_backend` repository should be "**BCA Finance Virtual Mall Backend**" at the minimum, this way at least we know what `bcaf` or `vmall` stands for.
 - It should contains the main technology or framework used. For example, "**BCA Finance Virtual Mall Backend Using Spring Boot**", this way we can easily search repository based on major framework or technology such as Spring Boot, Laravel, Angular JS, Flutter and so on.
 - If necessary put the programming language used to differentiate with other. For example put Kotlin to differentiate with other project using Java, or put Swift to differentiate with other project using Objective C.
+
+## README
+
+### Why
+
+README as the name implies is the first document that anyone would be asked to read before exploring the source code files. Most source control put README as the front page of a repository. It should tells what a repository is all about in a clear and instructive way.
+
+### Convention
+
+- It should contains an overview or general information about the project
+- It should contains technology used
+- It should contains setup instruction, most importantly development setup for other developer
+- Optionally contains screenshots or architectural diagram
