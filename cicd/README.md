@@ -6,16 +6,6 @@ Jenkins and Sonarqube each requires `Jenkinsfile` and `sonar-project.properties`
 
 ## Setup
 
-1. Add `Jenkinsfile` and `sonar-project.properties` to the root of your repository.
-
-2. Go to your repository settings, under **Webhooks** menu, click **Add webhook**.
-
-3. Fill `http://35.83.54.70:8080/github-webhook/` for **Payload URL**.
-
-4. Choose `application/json` for **Content type**.
-
-5. Choose `Just the push event` for event that will trigger webhook.
-
-6. Make sure **Active** checkbox is checked.
+Add `Jenkinsfile` and `sonar-project.properties` to the root of your repository.
 
 That's it. The next commit you push will be picked up by Jenkins.
