@@ -14,13 +14,13 @@ pipeline {
       }
     }
 
-    stage('Code Style') {
+    stage('Coding Standard') {
       steps {
         sh 'vendor/bin/phpcs'
       }
     }
 
-    stage('Sonarqube analysis') {
+    stage('Sonarqube Analysis') {
       environment {
         scannerHome = tool 'sonarqube-scanner'
       }
