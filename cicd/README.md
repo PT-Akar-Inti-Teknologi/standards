@@ -57,7 +57,7 @@ Jenkins and Sonarqube each requires `Jenkinsfile` and `sonar-project.properties`
             <td><code>maven</code></td>
             <td><code>junit</code></td>
             <td><code>jacoco</code></td>
-            <td></td>
+            <td><code>checkstyle</code></td>
             <td><a href="https://github.com/PT-Akar-Inti-Teknologi/example_jenkins_spring_maven3">example_jenkins_spring_maven3</a></td>
         </tr>
         <tr>
