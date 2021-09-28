@@ -37,7 +37,7 @@ Jenkins and Sonarqube each requires `Jenkinsfile` and `sonar-project.properties`
             <td></td>
         </tr>
         <tr>
-            <td rowspan=2><strong>Angular</strong> :white_check_mark:</td>
+            <td rowspan=2>:white_check_mark: <strong>Angular</strong></td>
             <td><code>npm</code></td>
             <td><code>jasmine</code> & <code>karma</code></td>
             <td><code>lcov</code></td>
@@ -53,7 +53,7 @@ Jenkins and Sonarqube each requires `Jenkinsfile` and `sonar-project.properties`
         </tr>
         <tr>
             <td rowspan=2>Java</td>
-            <td rowspan=2><strong>Spring Boot</strong> :white_check_mark:</td>
+            <td rowspan=2>:white_check_mark: <strong>Spring Boot</strong></td>
             <td><code>maven</code></td>
             <td><code>junit</code></td>
             <td></td>
