@@ -20,7 +20,7 @@ Jenkins and Sonarqube each requires `Jenkinsfile` and `sonar-project.properties`
     </thead>
     <tbody>
         <tr>
-            <td rowspan=3>Typescript</td>
+            <td rowspan=4>Typescript</td>
             <td>NestJS</td>
             <td><code>npm</code>/<code>yarn</code></td>
             <td><code>jest</code></td>
@@ -37,7 +37,14 @@ Jenkins and Sonarqube each requires `Jenkinsfile` and `sonar-project.properties`
             <td></td>
         </tr>
         <tr>
-            <td>Angular</td>
+            <td rowspan=2>Angular</td>
+            <td><code>npm</code>/<code>yarn</code></td>
+            <td><code>jest</code></td>
+            <td><code>lcov</code></td>
+            <td></td>
+            <td><a href="https://github.com/PT-Akar-Inti-Teknologi/example_jenkins_angular">example_jenkins_angular</a></td>
+        </tr>
+        <tr>
             <td><code>npm</code>/<code>yarn</code></td>
             <td><code>jest</code></td>
             <td><code>lcov</code></td>
