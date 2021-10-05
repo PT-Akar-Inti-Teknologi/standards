@@ -69,7 +69,7 @@ Jenkins and Sonarqube each requires `Jenkinsfile` and `sonar-project.properties`
         </tr>
         <tr>
             <td>PHP</td>
-            <td>Laravel</td>
+            <td>:white_check_mark: <strong>Laravel</strong></td>
             <td><code>composer</code></td>
             <td><code>phpunit</code></td>
             <td><code>clover</code></td>
