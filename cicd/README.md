@@ -74,7 +74,7 @@ Jenkins and Sonarqube each requires `Jenkinsfile` and `sonar-project.properties`
             <td><code>phpunit</code></td>
             <td><code>clover</code></td>
             <td><code>phpcs</code></td>
-            <td><a href="https://github.com/PT-Akar-Inti-Teknologi/example_jenkins_laravel">example_jenkins_laravel</a><br/><a href="https://github.com/PT-Akar-Inti-Teknologi/example_jenkins_laravel2">example_jenkins_laravel2</a></td>
+            <td><a href="https://github.com/PT-Akar-Inti-Teknologi/example_jenkins_laravel">example_jenkins_laravel</a><br/><a href="https://github.com/PT-Akar-Inti-Teknologi/example_jenkins_laravel2">example_jenkins_laravel2</a><br/><a href="https://github.com/PT-Akar-Inti-Teknologi/example_jenkins_laravel3">example_jenkins_laravel3</a></td>
         </tr>
         <tr>
             <td>Kotlin</td>
