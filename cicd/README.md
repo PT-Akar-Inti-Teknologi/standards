@@ -21,12 +21,12 @@ Jenkins and Sonarqube each requires `Jenkinsfile` and `sonar-project.properties`
     <tbody>
         <tr>
             <td rowspan=4>Typescript</td>
-            <td>NestJS</td>
+            <td>:white_check_mark: <strong>NestJS</strong></td>
             <td><code>npm</code>/<code>yarn</code></td>
             <td><code>jest</code></td>
             <td><code>lcov</code></td>
             <td><code>eslint</code></td>
-            <td><a href="https://github.com/PT-Akar-Inti-Teknologi/example_jenkins_nestjs">example_jenkins_nestjs</a><br/><a href="https://github.com/PT-Akar-Inti-Teknologi/example_jenkins_nestjs2">example_jenkins_nestjs2</a></td>
+            <td><a href="https://github.com/PT-Akar-Inti-Teknologi/example_jenkins_nestjs">example_jenkins_nestjs</a><br/><a href="https://github.com/PT-Akar-Inti-Teknologi/example_jenkins_nestjs2">example_jenkins_nestjs2</a><br/><a href="https://github.com/PT-Akar-Inti-Teknologi/example_jenkins_nestjs3">example_jenkins_nestjs3</a></td>
         </tr>
         <tr>
             <td>React</td>
